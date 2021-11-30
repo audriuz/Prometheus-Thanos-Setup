@@ -4,7 +4,8 @@
       "job": "windows_exporter"
     },
     "targets": [
-      "tstsql02.marvele.net:9182"
+       "tstsql02.marvele.net:9182",
+       "tstdc01.marvele.net:9182"
     ]
   }
 ]
